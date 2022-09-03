@@ -41,8 +41,7 @@ background-color: #081017;
 font-family: 'Cairo', sans-serif;
 font-family: 'Raleway', sans-serif;
 }
-body{
-   color: white;
+body,
 .h,
 .us,
 .pra,
@@ -51,8 +50,10 @@ body{
 .pass,
 .cou,
 .win,
-.lin,
+.lin, 
 .ma
+{
+  color: white;
 }
 
 /* .lorem{
